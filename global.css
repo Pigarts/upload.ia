@@ -1,0 +1,16 @@
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent; 
+  margin-top: 35px;
+  margin-left: 8px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #6d28d9ff;
+  border-radius: 8px;
+}
